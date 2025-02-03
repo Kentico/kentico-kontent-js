@@ -61,7 +61,7 @@
         "clean": "tsx clean.ts"
     },
     "dependencies": {
-        "@kontent-ai/core-sdk": "10.8.0",
+        "@kontent-ai/core-sdk": "10.9.0",
         "uuid": "10.0.0",
         "url-parse": "1.5.10"
     },
